@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/KaickLopes">
-  [<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaickLopes&show_icons=true&theme=radical"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=KaickLopes&layout=compact&theme=tokyonight)
+  [<img height="160em" src="https://streak-stats.demolab.com?user=KaickLopes&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaickLopes&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
