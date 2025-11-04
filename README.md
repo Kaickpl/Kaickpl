@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Kaick Lopes</h2>
 
-🎓 I'm a Computer Science student at the University of Pernambuco (UPE).  
-💻 Passionate about backend development, AI and data systems.  
-🚀 Currently working on academic and research projects in software engineering.
+🎓 I am a Software Engineering student at the University of Pernambuco (UPE).
+💻 Passionate about backend development, AI, and data systems.
+🚀 Currently working on academic and personal projects.
 
 ---
 
