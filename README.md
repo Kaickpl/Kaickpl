@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="https://github.com/KaickLopes">
+<a href="https://github.com/Kaickpl">
   <img height="160em" src="https://streak-stats.demolab.com?user=Kaickpl&theme=tokyonight" alt="GitHub Streak"/>
 </a>
 
