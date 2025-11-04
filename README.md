@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/Kaickpl">
-  <img height="160em" src="https://streak-stats.demolab.com?user=Kaickpl&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaickLopes&show_icons=true&theme=tokyonight"/>
 </a>
 
 </div>
