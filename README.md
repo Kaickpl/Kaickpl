@@ -28,5 +28,6 @@
 ---
 
 ### 📫 Contact
-- 💼 [LinkedIn](https://linkedin.com/in/SEU_USUARIO)
-- ✉️ kaick@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaick-jos%C3%A9-pita-de-mendon%C3%A7a-lopes-1b8613326)
+- ✉️ kaicklopespita@gmail.com
+- ✉️ kaick.mlopes@upe.br
