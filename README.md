@@ -12,7 +12,6 @@
 
 <a href="https://github.com/KaickLopes">
   <img height="160em" src="https://streak-stats.demolab.com?user=KaickLopes&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaickLopes&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 </div>
