@@ -2,7 +2,7 @@
 
 🎓 I am a Software Engineering student at the University of Pernambuco (UPE).
 💻 Passionate about backend development, AI, and data systems.
-🚀 Currently working on academic and personal projects.
+Currently working on academic and personal projects.
 
 ---
 
@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/Kaickpl">
-  <img height="160em" src="[https://github-readme-stats.vercel.app/api?username=Kaickpl&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Kaickpl&show_icons=true&theme=tokyonight
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaickpl&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Kaickpl&show_icons=true&theme=tokyonight
 )"/>
 </a>
 
