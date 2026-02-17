@@ -11,8 +11,7 @@ Currently working on academic and personal projects.
 <div align="center">
 
 <a href="https://github.com/Kaickpl">
-  <img height="160em" src="https://githubreadmestatsfast.vercel.app/api?username=Kaickpl&show_icons=true&theme=tokyonight](https://streak-stats.demolab.com?user=Kaickpl&theme=tokyonight
-)"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=Kaickpl&theme=tokyonight"/>
 </a>
 
 </div>
