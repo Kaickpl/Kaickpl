@@ -23,7 +23,7 @@ Currently working on academic and personal projects.
 
 - 📅 **2024 - current** → Research Group at UPE  
   Working on systems integration and secure authentication.
-- 🧠 Interests: Java, Spring Boot, Python, React, and AI applications.
+- 🧠 Interests: Java, Spring Boot, Dart, Flutter, Python, React, and AI applications.
 
 ---
 
